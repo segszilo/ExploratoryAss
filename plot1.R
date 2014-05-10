@@ -1,0 +1,23 @@
+hist(powers$Global_active_power, col = "black", main - "Global Active Power")
+Global Active Power <- as.numeric(powers$Global_active_power)
+GlobalActivePower <- as.numeric(powers$Global_active_power)
+hist(active, main - "Global Active Power", col = "black")
+hist(active, main - "Global Active Power")
+summay(active)
+summary(active)
+hist(active)
+hist(active, main = "Global Active Power")
+hist(active, main = "Global Active Power", col = "black")
+hist(active, main = "Global Active Power", col = "black", xlab = "Global Active Poer (kilowatts")
+hist(active, main = "Global Active Power", col = "black", xlab = "Global Active Poer (kilowatts)")
+hist(active, main = "Global Active Power", col = "black", xlab = "Global Active Poer (kilowatts)", break = 14)
+hist(active, main = "Global Active Power", col = "black", xlab = "Global Active Poer (kilowatts)", breaks = 14)
+hist(active, main = "Global Active Power", col = "black", xlab = "Global Active Poer (kilowatts)", breaks = 12)
+hist(active, main = "Global Active Power", col = "black", xlab = "Global Active Power (kilowatts)", breaks = 12)
+?plots
+?plot
+strptime()
+strptime("am", "pm")
+?strptime
+strptime(powers$Time)
+strptime(powers$Time, format = "")
